@@ -87,6 +87,8 @@ def parse_args():
 
 
 def main():
+    print(1)
+    print(1)
     opt = parse_args()
 
     rootpath = opt.rootpath

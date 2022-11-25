@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="raoxuan@121.48.161.76:22 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="raoxuan">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hybrid_space" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="raoxuan@121.48.161.76:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/raoxuan/hxw/hybrid_space" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="raoxuan@121.48.161.76:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/raoxuan/hxw/hybrid_space" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="raoxuan@121.48.161.76:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/raoxuan/hxw/hybrid_space" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
